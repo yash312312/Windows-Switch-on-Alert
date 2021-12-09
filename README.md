@@ -9,7 +9,7 @@ mobile phone and login using same id.
 ### Process
 * Generate access token from <a href="https://www.pushbullet.com/">PushBullet</a> website by navigating to **Settings>
 Access Tokens>Request Access Token**.
-* Store the access token in a variable **access_token** in the *.env* file.
+* Create a *.env* file and store the access token in a variable **access_token** in the following format.
     - access_token=XXXXXXXX<br>
     .<br>
     ├── .env<br>
