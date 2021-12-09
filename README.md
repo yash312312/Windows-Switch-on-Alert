@@ -5,7 +5,7 @@ A simple python program to send push notifications to your phone as soon as Wind
 * Create an account on <a href="https://www.pushbullet.com/">PushBullet.com</a>.
 * Install <a href="https://play.google.com/store/apps/details?id=com.pushbullet.android">PushBullet app</a> on your 
 mobile phone and login using same id.
-<br>
+
 ### Process
 * Generate access token from <a href="https://www.pushbullet.com/">PushBullet</a> website by navigating to **Settings>
 Access Tokens>Request Access Token**.
