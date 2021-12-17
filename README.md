@@ -14,7 +14,7 @@ Access Tokens>Request Access Token**.
     .<br>
     ├── .env<br>
     └── main.py
-* Install packages mentioned in requirements.txt if required.
+* Install packages mentioned in *requirements.txt* if required.
 * Open Run command window by pressing **Windows logo key + R** and type **shell:startup** and press **Enter**.
 * Now copy **run.bat** from the directory and **Paste Shortcut** in the startup folder **(do not paste the copied file)**.
 * Further, you can hide the black command prompt window on startup by right clicking on the shortcut then **Properties>Shortcut>
